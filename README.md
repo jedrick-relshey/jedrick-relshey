@@ -2,10 +2,8 @@
 
 --- 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode," />
   <br/>
-  <img src="https://raw.githubusercontent.com/jedrick-relshey/jedrick-relshey/main/canva-logo.jpg" height="50"/>
-
   <img src="https://raw.githubusercontent.com/jedrick-relshey/jedrick-relshey/main/vMix-Logo.jpg" height="50"/>
 </p>
 
