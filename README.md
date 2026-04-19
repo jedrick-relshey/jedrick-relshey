@@ -22,6 +22,7 @@
 ## 🚀 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode" />
+  <img src="https://img.shields.io/badge/vMix-000000?style=for-the-badge&logo=obsstudio&logoColor=white" />
 </p>
 
 ---
