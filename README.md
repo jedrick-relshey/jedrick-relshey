@@ -18,6 +18,7 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="20"/> MySQL &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> Python &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/php/777BB4" height="20"/> PHP &nbsp;&nbsp;
+   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="20"/> WordPress
   🌐 Networking Basics
 </p>
 
@@ -25,7 +26,7 @@
 
 ## 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,github,git,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode,visualstudio" />
 </p>
 
 ---
