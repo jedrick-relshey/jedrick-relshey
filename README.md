@@ -6,7 +6,6 @@
   👨‍💻 Continuously learning and improving my skills <br>
   🎯 Goal: Become a professional Full-Stack Developer
 </p>
----
 
 ## 🚀 Tech Stack
 <p>
