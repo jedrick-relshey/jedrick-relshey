@@ -6,22 +6,6 @@
   👨‍💻 Continuously learning and improving my skills <br>
   🎯 Goal: Become a professional Full-Stack Developer
 </p>
-
---- 
-
-## 📚 Currently Learning
-<p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="20"/> React &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20"/> Tailwind CSS &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/node-dot-js/339933" height="20"/> Node.js &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/fff" height="20"/> Express &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="20"/> MySQL &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="20"/> Python &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="20"/> PHP &nbsp;&nbsp;
-   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="20"/> WordPress
-  🌐 Networking Basics
-</p>
-
 ---
 
 ## 🚀 Tech Stack
