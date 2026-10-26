@@ -13,49 +13,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode,visualstudio" />
 </p>
 
----
-
-## 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/vMix-000000?style=for-the-badge&logo=obsstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-<p/>
-
----
-
 ## 📊 GitHub Stats
 <p> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedrick-relshey&theme=tokyonight&hide_border=true" height="140"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedrick-relshey&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=jedrick-relshey&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
----
-
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.tiktok.com/@jdjdmclt">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/>
-  </a>
-  <a href="https://www.facebook.com/jmiclat.26">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/jedrickmiclat">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://web.telegram.org/a/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.threads.com/@jedrickmiclat">
-    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads"/>
-  </a>
-  <a href="mailto:miclatjedrick8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## ⚠️ Note
 > This profile and projects are still a work in progress. I am continuously learning and improving my skills in development.
